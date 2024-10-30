@@ -315,18 +315,3 @@ Esta arquitetura demonstra uma visão estratégica e uma abordagem centrada em i
 
 ---
 
-## **Como Utilizar este README**
-
-- **Clone o Repositório**: Certifique-se de que o arquivo `arquitetura.png` está localizado no mesmo diretório que o `README.md`.
-- **Atualize conforme Necessário**: Personalize o documento para refletir detalhes específicos do projeto ou da organização.
-- **Inclua o Diagrama**: Se necessário, atualize o caminho da imagem no Markdown para corresponder à localização real do arquivo.
-
----
-
-## **Contato**
-
-Para dúvidas ou mais informações, entre em contato com a equipe de desenvolvimento.
-
----
-
-**Nota**: Este documento está formatado em Markdown e pode ser usado diretamente como um **README.md** para documentação e apresentação do projeto.
